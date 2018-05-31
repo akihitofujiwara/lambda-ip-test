@@ -13,6 +13,9 @@
 ## IP確認関数実行
 - `yarn invoke`
 
+## IP確認関数実行 (ローカル)
+- `yarn invoke:local`
+
 ## メモ
 - LambdaのIPアドレス分散について
   - 試した内容
